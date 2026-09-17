@@ -3,3 +3,6 @@ name = "pipeline"
 edition = "2024"
 version = "0.1.0"
 
+[dependencies]
+ipckit = "0.1.12"
+
